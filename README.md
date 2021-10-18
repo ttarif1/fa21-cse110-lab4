@@ -1,1 +1,2 @@
-# CSE 110 LAB 4
+# CSE 110 Lab 4: JS Language Intro, Diagramming and DevTools Part 2
+  Expose and Explore Sections completed
